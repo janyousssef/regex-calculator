@@ -34,7 +34,7 @@ class CalculatorDemo {
 		Pattern add = Pattern.compile("\\d+\\s*\\+\\s*\\d+");
 		Pattern minus = Pattern.compile("\\d+\\s*\\-\\s*\\d+");
 		try {
-			System.out.println("Welcome to Calculator Demo!\n___________________________\n");
+			System.out.println("Welcome to Calculator Demonnnnnnnnnnnnnnnnnnnnnnnnn!\n___________________________\n");
 			INPUT = sc.nextLine();
 			Matcher mtpMatcher = mtp.matcher(INPUT);
 			while (mtpMatcher.find()) {
